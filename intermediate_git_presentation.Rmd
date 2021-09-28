@@ -2,7 +2,7 @@
 title: "Intermediate Git and Github: Security"
 subtitle: "An Introduction"
 author: "Jenny Leopoldina Smith"
-institute: "Fred Hutchinson Cancer Research "
+institute: "Fred Hutchinson Cancer Research Center"
 date: "`r Sys.Date()`"
 output:
   xaringan::moon_reader:
